@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shehriyar Kabir 👋
 
-<!--
-**ShehriyarKabir/ShehriyarKabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end web developer from Pakistan, passionate about building responsive, accessible, and user-friendly websites.
 
-Here are some ideas to get you started:
+I have completed the **Responsive Web Design** certification and I'm currently learning **JavaScript** while continuing to build real-world projects and strengthen my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* HTML5
+* CSS3
+* Responsive Web Design
+* JavaScript (Currently Learning)
+* Git & GitHub
+
+### Current Focus
+
+* Building practical front-end projects
+* Improving JavaScript fundamentals
+* Growing my portfolio and contributing consistently
+
+Thanks for stopping by! Feel free to explore my projects and follow my progress as I continue my web development journey.
