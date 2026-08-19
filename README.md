@@ -1,10 +1,34 @@
+<div align="center">
+
+<img src="./assets/shehriyar-github-banner.png" alt="Shehriyar Kabir — Front-End Developer" width="100%">
+
+<br>
+
 # 👋 Hey, I'm Shehriyar Kabir
 
 ### `Front-End Developer` · `JavaScript Learner` · `Builder`
 
-I’m a **front-end web developer from Pakistan** who enjoys turning ideas into clean, responsive, and user-friendly websites.
+<p>
+  <a href="https://github.com/ShehriyarKabir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-Certified-0a0a23?style=flat-square&logo=freecodecamp&logoColor=white" alt="Responsive Web Design">
+</p>
 
-Currently, I'm focused on **JavaScript**, building practical projects, and improving my problem-solving skills — one project at a time.
+</div>
+
+---
+
+## `> whoami`
+
+I'm a **front-end web developer from Pakistan 🇵🇰** who enjoys turning ideas into clean, responsive, accessible, and user-friendly websites.
+
+I've completed the **freeCodeCamp Responsive Web Design certification** and I'm currently diving deeper into **JavaScript**.
+
+My goal is simple:
+
+> **Learn the fundamentals → build real projects → keep improving.**
 
 ---
 
@@ -12,17 +36,32 @@ Currently, I'm focused on **JavaScript**, building practical projects, and impro
 
 ```js
 const shehriyar = {
-  role: "Front-End Developer",
-  location: "Pakistan 🇵🇰",
-  currentlyLearning: "JavaScript",
-  certifiedIn: "Responsive Web Design",
-  interests: [
-    "Web Development",
-    "UI & UX",
-    "Clean Code",
-    "Building Projects"
-  ],
-  goal: "Become a strong modern web developer"
+    role: "Front-End Developer",
+    location: "Pakistan 🇵🇰",
+
+    skills: [
+        "HTML5",
+        "CSS3",
+        "Responsive Design",
+        "JavaScript"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
+
+    currentlyLearning: "JavaScript",
+
+    interests: [
+        "Web Development",
+        "UI / UX",
+        "Clean Code",
+        "Problem Solving"
+    ],
+
+    mindset: "Build. Learn. Improve. Repeat."
 };
 ```
 
@@ -32,87 +71,133 @@ const shehriyar = {
 
 ### Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript">
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
+</p>
 
 ---
 
-## 🚀 What I'm Doing Now
+## 🚀 Currently
 
-* 📚 Learning **JavaScript fundamentals**
-* 🛠️ Building practical front-end projects
-* 🎨 Improving my UI and responsive design skills
-* 🧠 Strengthening problem-solving and programming fundamentals
-* 🌱 Growing my portfolio through consistent practice
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  📚 Learning JavaScript                      │
+│  🛠️ Building practical projects              │
+│  🎨 Improving UI & responsive design         │
+│  🧠 Strengthening problem-solving            │
+│  🌱 Growing my developer portfolio           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🏆 Certification
 
-**Responsive Web Design — freeCodeCamp**
+### Responsive Web Design
 
-Successfully completed the Responsive Web Design certification and built multiple projects while learning modern HTML and CSS.
+**freeCodeCamp**
 
----
+Completed the Responsive Web Design certification covering:
 
-## 📌 Featured Projects
+`HTML` · `CSS` · `Accessibility` · `Flexbox` · `Grid` · `Responsive Design` · `Animations`
 
-| Project                   | Description                                |
-| ------------------------- | ------------------------------------------ |
-| 🎨 **Blog Preview Card**  | Responsive Frontend Mentor challenge       |
-| 🔳 **QR Code Component**  | Responsive component built with HTML & CSS |
-| 💻 **Personal Portfolio** | Personal developer portfolio website       |
-
-> More projects are being built as I continue learning JavaScript.
+<a href="https://www.freecodecamp.org/certification/shehriyarkabir/responsive-web-design-v9">
+  <img src="https://img.shields.io/badge/View%20Certificate-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="View Certificate">
+</a>
 
 ---
 
-## 📊 GitHub
+## 🛠️ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShehriyarKabir&show_icons=true&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehriyarKabir&layout=compact&hide_border=true" height="165">
-</p>
+### 🎨 Blog Preview Card
+
+A responsive blog preview card built as a Frontend Mentor challenge.
+
+**Built with:** `HTML` · `CSS` · `Responsive Design`
+
+<a href="https://github.com/ShehriyarKabir/Blog-card-preview">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Blog Preview Card repository">
+</a>
 
 ---
 
-## 🎯 My Journey
+### 🔳 QR Code Component
+
+A clean and responsive QR code component built while practicing modern CSS layout techniques.
+
+**Built with:** `HTML` · `CSS` · `Responsive Design`
+
+<a href="https://github.com/ShehriyarKabir">
+  <img src="https://img.shields.io/badge/Explore%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="Explore projects">
+</a>
+
+---
+
+## 📈 My Learning Journey
 
 ```text
 HTML
-  ↓
+ │
+ ▼
 CSS
-  ↓
-Responsive Web Design
-  ↓
-JavaScript  ← You are here
-  ↓
+ │
+ ▼
+Responsive Web Design  ✓
+ │
+ ▼
+JavaScript  ← CURRENT
+ │
+ ▼
 Modern Front-End Development
-  ↓
+ │
+ ▼
 Real-World Projects
-  ↓
+ │
+ ▼
 AI + Web Development
 ```
 
 ---
 
-## 💬 Let's Connect
+## 🎯 What I'm Working Toward
 
-I'm always learning, building, and looking for opportunities to grow as a developer.
+I want to become a **strong, practical front-end developer** who understands the fundamentals instead of simply relying on frameworks and tools.
 
-**Thanks for visiting my profile!**
+I'm focusing on:
 
-⭐ Feel free to explore my repositories and follow along with my journey.
+* Writing clean and maintainable code
+* Understanding JavaScript deeply
+* Building responsive interfaces from scratch
+* Improving accessibility
+* Solving problems independently
+* Turning what I learn into real projects
 
 ---
 
-<p align="center">
-  <i>“Build. Learn. Improve. Repeat.”</i>
+## 🌐 Find Me
+
+<p>
+  <a href="https://github.com/ShehriyarKabir">
+    <img src="https://img.shields.io/badge/GitHub-ShehriyarKabir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • IMPROVE`
+
+⭐ Thanks for stopping by.
+
+**Feel free to explore my repositories and follow the journey.**
+
+</div>
